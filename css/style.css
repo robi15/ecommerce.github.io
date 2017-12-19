@@ -1,0 +1,109 @@
+#wrapper{
+	width: 1100px;
+	height: 500px;
+	background-color:#FFFFFF;
+}
+nav{
+	width: 100%;
+	height: 50px;
+}
+.nav-left{
+	width: 50%;
+	height: 100%;
+   float: left;
+}
+.nav-left img{
+	margin-left: 20px;
+}
+
+.nav-left button{
+	 position: relative;
+     left: 47px;
+     bottom: 12px;
+     padding: 5px 10px;
+     margin: 5px;
+}
+
+.nav-right{
+    width: 50%;
+	height: 100%;
+   float: left;
+}
+.word {
+	color: orange;
+}
+ hr{
+	margin-left: 40px;
+	margin-right: 40px;
+    border-color: whitesmoke;
+
+}
+.love li{
+	padding: 10px;
+	margin: 15px;
+	list-style: none;
+	display: inline;
+}
+
+.love1 li{
+	padding: 7px;
+	list-style: none;
+	display: inline;
+
+}
+main{
+	width: 100%;
+	height: 450px;
+	float: left;
+}
+#banner{
+	width: 100%;
+	height: 50px;
+ 
+}
+.banner-left{
+	width: 50%;
+	height: 100%;
+   float: left;
+}
+.banner-right{
+	width: 50%;
+	height: 100%;
+    float: left;
+}
+ .banner-right input{
+	position: relative;
+	left: 360px;
+	top: 15px;
+}
+section{
+	width: 100%;
+	height: 400px;
+}
+.pic{
+	 width: 50%;
+	 height: 100%;
+	float: left;
+}
+.pic-left{
+	
+	margin: 85px 55px 10px 100px;
+}
+.pic-left button{
+	background-color:orange;
+	padding: 5px 10px;
+	color: white; 
+}
+.pic1{
+     width: 50%;
+	 height: 100%;
+	 float: left;
+	 background-image: url("../asset/girl.jpg");
+	 background-repeat: no-repeat;
+}
+ .pic1 img{
+	position: relative;
+	top: 200px;
+	left: 60px;
+}
+
